@@ -1,5 +1,4 @@
-//: Playground - noun: a place where people can play
-
+//Juego de memoria
 import Cocoa
 
 for num in 1...100{
