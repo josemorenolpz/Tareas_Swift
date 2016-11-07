@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		3A14DF371DB56C0D00AF6C43 /* tarea_01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = tarea_01.playground; sourceTree = "<group>"; };
+		3A8FA1C21DD12E0C001CC44C /* Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		3A14DF301DB5588800AF6C43 = {
 			isa = PBXGroup;
 			children = (
+				3A8FA1C21DD12E0C001CC44C /* Velocimetro.playground */,
 				3A14DF371DB56C0D00AF6C43 /* tarea_01.playground */,
 			);
 			sourceTree = "<group>";
